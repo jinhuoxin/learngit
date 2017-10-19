@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Repair bugs.
 branch a.
 ----fix-b
+----branch-c
