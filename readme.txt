@@ -5,5 +5,7 @@ Git is free software distributed under the GPL.
 Creating a new branch is quick and simple.
 Repair bugs.
 branch a.
+insert
 ----fix-b
 ----branch-c
+
